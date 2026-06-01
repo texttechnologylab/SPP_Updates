@@ -1,4 +1,5 @@
 [
+{"title":"TTLab SPP Website Design Update","content": "Change the Design of the TTLab SPP Website.", "date": "2027-05-28", "author": "Mevlüt Bagci", "email": "bagci@em.uni-frankfurt.de"},
 {"title":"TTLab SPP Website Design Update","content": "Change the Design of the TTLab SPP Website.", "date": "2026-05-28", "author": "Mevlüt Bagci", "email": "bagci@em.uni-frankfurt.de"},  
 {"title":"Per Docker one sentiment model and reproducibility","content": "Every Docker-Container contains only one model, which are offline saved. Added two sentiment models: twitter-xlm-roberta-base-sentiment, citizenlab-twitter-xlm-roberta-base-sentiment-finetunned", "date": "2024-11-06", "author": "Mevlüt Bagci", "email": "bagci@em.uni-frankfurt.de"},
 {"title":"Torch Version Update","content": "Updated torch version from 2.2.0 to 2.5.1, because of security issues of the torch python library.", "date": "2025-03-24", "author": "Mevlüt Bagci", "email": "bagci@em.uni-frankfurt.de"},
